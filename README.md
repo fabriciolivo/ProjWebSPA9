@@ -1,4 +1,4 @@
-# 🚀 Single Page Application (SPA) Básica em JavaScript Puro
+# Single Page Application (SPA) com JavaScript Puro
 
 Este projeto é uma implementação de uma **Single Page Application (SPA)** básica, desenvolvida utilizando apenas **JavaScript, HTML e CSS (Web Components)**. O objetivo principal foi demonstrar domínio em manipulação do DOM, gestão de eventos, uso de templates, validação de formulários e armazenamento local, seguindo as diretrizes de uma disciplina de Desenvolvimento WEB.
 
@@ -25,20 +25,13 @@ O projeto atende a todas as especificações técnicas obrigatórias, transforma
 
 O código está organizado de forma clara e modular:
 
-## ⚙️ Como Executar o Projeto
-
-É muito simples executar esta aplicação, pois ela não requer dependências de servidor (backend) ou instalação de pacotes (`npm`):
-
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-    cd NOME_DO_REPOSITORIO
+    git clone https://github.com/fabriciolivo/ProjWebSPA9.git
     ```
 2.  **Abra o Arquivo:**
     * Localize o arquivo `index.html` na pasta.
     * Abra-o com qualquer navegador moderno (Chrome, Firefox, Edge, etc.).
-
-A aplicação carregará na rota padrão (`#home`) e você poderá testar a navegação SPA e o formulário de cadastro.
 
 ## 📝 Desafios e Próximos Passos (Opcional)
 
